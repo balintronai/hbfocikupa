@@ -1,0 +1,16 @@
+
+.internal_swipe_container {
+	position: relative;
+}
+
+.trans {
+	filter:alpha(opacity=75);
+	-moz-opacity:0.75;
+	-khtml-opacity: 0.75;
+	opacity: 0.75;
+}
+
+.jq_swipe_image {
+	background: url('loader.gif') no-repeat center center;
+	
+}
